@@ -1,2 +1,2 @@
 # hugotsr.art
-site web qur hugo tsr
+Site web sur hugo tsr
